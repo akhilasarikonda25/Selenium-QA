@@ -20,9 +20,11 @@ Non Functional
 
 As A Qa tester mainly it focus on the Functional testing 
 
+Functional Testing 
+
 1. Integration Testing : if different systems are tested in a combined way, then that will be integration testing.
 
-2.Ui Testing : Testing the ui of the apllication 
+2. Ui Testing : Testing the ui of the aplication 
 
 3. Uat testing : is a process to check whether the system accepts a user's requirements or not generally end users will test the UAT testing .
 
@@ -32,6 +34,18 @@ As A Qa tester mainly it focus on the Functional testing
 
 6.Reggression Testing : If there are any new changes in the code it will not impact the existing functionality .
 
+
+Non Functional Testing 
+
+1)Load testing : Load testing is to apply load on application to chec wheather it able to handle n number of customer load 
+
+2) Stress testing : By increasing the load beyond the requirement and check whether at any point of view the system crashing or not.
+
+3) security esting : It is a part related to hacking 
+
+4) Usability testing : Wheather the application is easty to use or not 
+
+5) Relabilty testing : Whether the system is reliable or not 
 
 
 
